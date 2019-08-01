@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+# Site Settings
+locale                   : "en-US"
+title                    : "개발자 블로그"
+title_separator          : "-"
+name                     : "Sengye-Gean"
+description              : "website."
+url                      : "https://sengye-gean.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -1,7 +1,7 @@
 remote_theme : mmistakes/hpstr-jekyll-theme
 
-title:            Site Title
-description:      Describe your website here.
+title:            "Site Title"
+description:      "Describe your website here."
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -12,7 +12,7 @@ url: "http://sengye.github.io"
 # Owner/author information
 owner:
   name:           "Sengye-Gean"
-  avatar:         avatar.jpg
+  avatar:         #
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          "dev_sengye_jean@naver.com"
   # Social networking links used in footer. Update and remove as you like.
